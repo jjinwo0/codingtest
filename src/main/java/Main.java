@@ -1,4 +1,5 @@
 
+import programmers.level1.SmallerSubString;
 import programmers.level1.StringSort;
 import programmers.level2.BinaryCycle;
 import programmers.level2.Fibonacci;
@@ -13,7 +14,7 @@ public class Main {
 //        Fibonacci f = new Fibonacci();
 //        System.out.println(f.solution(11));
 
-        RemovePairs rp = new RemovePairs();
-        System.out.println(rp.solution("baabaa"));
+        SmallerSubString sss = new SmallerSubString();
+        System.out.println(sss.solution("500220839878", "7"));
     }
 }
