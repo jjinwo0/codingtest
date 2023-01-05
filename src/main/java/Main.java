@@ -1,4 +1,5 @@
 
+import programmers.level1.NumbersAndAlphabet;
 import programmers.level1.SmallerSubString;
 import programmers.level1.StringSort;
 import programmers.level2.BinaryCycle;
@@ -6,15 +7,14 @@ import programmers.level2.Fibonacci;
 import programmers.level2.NextBigNumber;
 import programmers.level2.RemovePairs;
 
-import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Collections;
 
 public class Main {
     public static void main(String[] args) {
 
-//        Fibonacci f = new Fibonacci();
-//        System.out.println(f.solution(11));
+        NumbersAndAlphabet naa = new NumbersAndAlphabet();
+        System.out.println(naa.solution("one4seveneight"));
 
-        SmallerSubString sss = new SmallerSubString();
-        System.out.println(sss.solution("500220839878", "7"));
     }
 }
