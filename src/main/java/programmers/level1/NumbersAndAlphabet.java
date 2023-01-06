@@ -8,7 +8,7 @@ public class NumbersAndAlphabet {
         for (int i=0; i< num.length; i++){
             s = s.replace(num[i], Integer.toString(i));
         }
-        answer = Integer.getInteger(s);
+        answer = Integer.parseInt(s);
 
         return answer;
     }
