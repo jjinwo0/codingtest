@@ -9,10 +9,7 @@ import java.util.Collections;
 
 public class Main {
     public static void main(String[] args) {
-        BinaryCycle bc = new BinaryCycle();
-        String s = 	"110010101001";
-        for (int i=0; i<bc.solution(s).length; i++){
-            System.out.println(bc.solution(s)[i]);
-        }
+        Fibonacci f = new Fibonacci();
+        System.out.println(f.solution(5));
     }
 }
