@@ -5,11 +5,18 @@ import programmers.level1.StringSort;
 import programmers.level2.*;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 
 public class Main {
     public static void main(String[] args) {
-        Fibonacci f = new Fibonacci();
-        System.out.println(f.solution(5));
+
+        ArrayList<String> arr = new ArrayList<>();
+        arr.add("a");
+        arr.add("b");
+        arr.add("a");
+
+        System.out.println(arr.indexOf("a"));
+
     }
 }
