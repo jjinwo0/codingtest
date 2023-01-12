@@ -11,12 +11,10 @@ import java.util.Collections;
 public class Main {
     public static void main(String[] args) {
 
-        ArrayList<String> arr = new ArrayList<>();
-        arr.add("a");
-        arr.add("b");
-        arr.add("a");
-
-        System.out.println(arr.indexOf("a"));
-
+        Carpet c = new Carpet();
+        int[] arr = c.solution(10, 2);
+        for (int i=0; i<arr.length; i++){
+            System.out.println(arr[i]);
+        }
     }
 }
