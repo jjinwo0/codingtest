@@ -1,4 +1,5 @@
 
+import programmers.level0.Babbling;
 import programmers.level1.NumbersAndAlphabet;
 import programmers.level1.SmallerSubString;
 import programmers.level1.StringSort;
@@ -11,10 +12,12 @@ import java.util.Collections;
 public class Main {
     public static void main(String[] args) {
 
-        Carpet c = new Carpet();
-        int[] arr = c.solution(10, 2);
-        for (int i=0; i<arr.length; i++){
-            System.out.println(arr[i]);
-        }
+        Babbling b = new Babbling();
+        String[] arr = {"aya", "yee", "u", "maa", "wyeoo"};
+        System.out.println("answer: "+b.solution(arr));
+
+        String str = "wyeoo";
+        System.out.println(str.replace("ye", ""));
+
     }
 }
