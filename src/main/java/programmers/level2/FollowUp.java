@@ -1,22 +1,33 @@
 package programmers.level2;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class FollowUp {
     public int[] solution(int n, String[] words){
         int[] answer = {0, 0};
+        List<String> list = new ArrayList<>();
+        boolean b = true;
 
-        List<String> list = Arrays.asList(words);
-
-        for (int i=0; i<list.size()-1; i++){
-            if (list.get(i).equals(list.get(list.size()-1)))
+        for (int i=0; i< words.length; i++){
+            if (list.contains(words[0])){
+                answer[0] = (i%n) + 1;
+                answer[1] = (i/n) + 1;
+                b = false;
                 break;
-            if (i == list.size()-1)
-                return answer;
+            }
+            list.add(words[i]);
+
+            if (i>0 && words[i-1].charAt(words[i-1].length()-1) != words[i].charAt(0)){
+                answer[0] = (i%n) + 1;
+                answer[1] = (i/n) + 1;
+                b = false;
+                break;
+            }
         }
-        answer[0] = (words.length%n)+1;
-        answer[1] = words.length/n;
+        if (b)
+            return new int[]{0, 0};
         return answer;
     }
 }

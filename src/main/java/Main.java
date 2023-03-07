@@ -11,13 +11,6 @@ import java.util.Collections;
 
 public class Main {
     public static void main(String[] args) {
-
-        Babbling b = new Babbling();
-        String[] arr = {"aya", "yee", "u", "maa", "wyeoo"};
-        System.out.println("answer: "+b.solution(arr));
-
-        String str = "wyeoo";
-        System.out.println(str.replace("ye", ""));
-
+        System.out.println("5 + 2 = 34" + (3 + 4));
     }
 }
