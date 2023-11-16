@@ -1,0 +1,8 @@
+
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“˜žÁ8Ô“”˜±1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙùÌƒþÿÿÿÿ8ÿ“”˜±1
+E
+java:S1659"#Declare "count" on a separate line.(ÙùÌƒþÿÿÿÿ8ÿ“”˜±1
+L	java:S106;"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8„””˜±1
+L	java:S106>"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿ8„””˜±1

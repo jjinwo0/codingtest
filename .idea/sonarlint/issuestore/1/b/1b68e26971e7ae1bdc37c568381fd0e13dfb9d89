@@ -1,0 +1,16 @@
+
+t	java:S127,"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù8’Ûâš±1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8¼™âš±1
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Ò·j8½™âš±1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(œû¿Ø8“Îæš±1
+R
+java:S1854$"6Remove this useless assignment to local variable "st".(ÿ×ÔT8×™âš±1
+L	java:S1062"+Replace this use of System.out by a logger.(åö¡½úÿÿÿÿ8—Îæš±1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8´“çš±1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8´“çš±1
+Z
+java:S1128
+"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8´“çš±1

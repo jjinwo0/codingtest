@@ -1,0 +1,25 @@
+
+Q
+java:S1066["/Merge this if statement with the enclosing one.(ØÉ‹İøÿÿÿÿ8Äº“Ù¶1
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8Äº“Ù¶1
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–î­ˆıÿÿÿÿ8Åº“Ù¶1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8¼»“Ù¶1
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8¼»“Ù¶1
+n
+java:S3008"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8¼»“Ù¶1
+D
+java:S1659""Declare "nowY" on a separate line.(¦ĞË´üÿÿÿÿ8¼»“Ù¶1
+`
+java:S1659">Declare "M" and all following declarations on a separate line.(Ğ£áœüÿÿÿÿ8¼»“Ù¶1
+N
+java:S1197",Move the array designators [][] to the type.(„åû¾şÿÿÿÿ8¾»“Ù¶1
+H
+java:S1197",Move the array designators [][] to the type.(£Ø­+8¾»“Ù¶1
+A
+java:S1659"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8¾»“Ù¶1
+L	java:S106H"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ã»“Ù¶1
+I
+java:S1125["'Remove the unnecessary boolean literal.(ØÉ‹İøÿÿÿÿ8Ä»“Ù¶1
