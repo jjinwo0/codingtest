@@ -1,0 +1,10 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸Áøİüÿÿÿÿ8¼ã İ1
+i
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇ¼8É…İ1
+<
+java:S1659"Declare "N" on a separate line.(ÅÇ¼8É…İ1
+L	java:S106."+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8…É…İ1
+G	java:S1062"+Replace this use of System.out by a logger.(ô¤„å8…É…İ1
+D
+java:S1659l""Declare "sumB" on a separate line.(…ıòÍûÿÿÿÿ8ˆÉ…İ1

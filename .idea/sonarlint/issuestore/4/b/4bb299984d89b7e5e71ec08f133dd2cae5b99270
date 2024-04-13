@@ -1,0 +1,9 @@
+
+Q
+java:S1066@"/Merge this if statement with the enclosing one.(Œ·³öÿÿÿÿÿ8ÖÖÃ™Ä1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©ìÒÅúÿÿÿÿ8µŒ™™Ä1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõþÿÿÿÿ8Õ»®™Ä1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8Ö»®™Ä1
+G	java:S1060"+Replace this use of System.out by a logger.(×™ÇŠ8Ú»®™Ä1

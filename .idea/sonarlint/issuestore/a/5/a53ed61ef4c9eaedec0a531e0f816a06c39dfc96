@@ -1,0 +1,6 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(«ž»Äøÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "avg".(ÍŠÈöÿÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

@@ -1,0 +1,12 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À´Û¦8 ·”Ÿà1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8¢·”Ÿà1
+n
+java:S3008$"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¯Ä«üÿÿÿÿ8ï·”Ÿà1
+e
+java:S1659$"CDeclare "sharkY" and all following declarations on a separate line.(“¯Ä«üÿÿÿÿ8ï·”Ÿà1
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ8ğ·”Ÿà1
+L	java:S106="+Replace this use of System.out by a logger.(ûÛÏçùÿÿÿÿ8Øï”Ÿà1
+o
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¥Æš¢8×›ûŸà1

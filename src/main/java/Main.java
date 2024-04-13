@@ -1,16 +1,26 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
-        Scanner sc = new Scanner(System.in);
-        String[] arr = sc.nextLine().split("");
-        int answer = 0;
-
-        for (int i=0; i<arr.length; i++){
-            answer += Integer.parseInt(String.valueOf(arr[i]));
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int num = Integer.parseInt(br.readLine());
+        Integer[] arr = new Integer[num];
+        for (int i = 0; i < num; i++) {
+            arr[i] = Integer.valueOf(br.readLine());
         }
 
-        System.out.println(answer);
+        Arrays.sort(arr, Comparator.reverseOrder());
+        int sum = 0;
+        for (int i = 0; i < num; i++) {
+            if((i+1) % 3 == 0) continue;
+
+            sum+= arr[i];
+        }
+
+        System.out.println(sum);
     }
 }

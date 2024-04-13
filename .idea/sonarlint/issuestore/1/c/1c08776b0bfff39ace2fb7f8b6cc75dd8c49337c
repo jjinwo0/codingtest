@@ -1,0 +1,23 @@
+
+t	java:S135e"YReduce the total number of break and continue statements in this loop to use at most one.(ØïšZ8µõµ·ì1
+y	java:S127\"XRefactor the code in order to not assign to this loop counter from within the loop body.(«ÅÈšþÿÿÿÿ8µõµ·ì1
+y	java:S127r"XRefactor the code in order to not assign to this loop counter from within the loop body.(õß×»øÿÿÿÿ8µõµ·ì1
+u	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê†ô°8µõµ·ì1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªÎ´°ùÿÿÿÿ8¶õµ·ì1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙÝè8·õµ·ì1
+i
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯€á8õõµ·ì1
+A
+java:S1659
+"$Declare "answer" on a separate line.(¯€á8õõµ·ì1
+G	java:S106"+Replace this use of System.out by a logger.(ô¤„å8øõµ·ì1
+p
+java:S37765"SRefactor this method to reduce its Cognitive Complexity from 105 to the 15 allowed.(Ñ’ßø8ùõµ·ì1
+>	java:S1319""Add a default case to this switch.(¹Ôñº8ùõµ·ì1
+v
+java:S3012t"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÿ¿‰Í8úõµ·ì1
+w
+java:S3012‰"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÿ¿‰Í8úõµ·ì1
+ã
+java:S65415"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 84 to 64, Complexity from 42 to 14, Nesting Level from 4 to 2, Number of Variables from 24 to 6.(Ñ’ßø8ûõµ·ì1

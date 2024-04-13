@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ´ª»üÿÿÿÿ8İÀò½1
+>
+java:S1643"Use a StringBuilder instead.(ëÀ¶Èøÿÿÿÿ8ŞÀò½1
+F
+java:S1659"$Declare "chance" on a separate line.(™¾ÁÆüÿÿÿÿ8çÀò½1
+G	java:S106"+Replace this use of System.out by a logger.(ÿë€æ8ëÀò½1

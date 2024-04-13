@@ -1,0 +1,16 @@
+
+z	java:S1352"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¡å•ì1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8£å•ì1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦ªëÇıÿÿÿÿ8ıçÎ•ì1
+i
+java:S3008
+"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£Æî8ÆèÎ•ì1
+i
+java:S3008
+"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£Æî8ÆèÎ•ì1
+<
+java:S1659
+"Declare "C" on a separate line.(ß£Æî8ÆèÎ•ì1
+L	java:S106,"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ƒå•ì1
+o
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ˆõ¨8„å•ì1

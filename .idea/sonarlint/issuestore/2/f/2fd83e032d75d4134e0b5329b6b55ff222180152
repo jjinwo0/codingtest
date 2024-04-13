@@ -1,0 +1,8 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›²’£ÿÿÿÿÿ
+‘
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–Ýýÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(§ÑÂ¢ûÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ

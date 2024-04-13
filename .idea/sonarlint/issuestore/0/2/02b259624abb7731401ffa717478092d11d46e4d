@@ -1,0 +1,35 @@
+
+u	java:S135c"YReduce the total number of break and continue statements in this loop to use at most one.(õãÜí8ø›Ø•ë1
+v	java:S135Â"YReduce the total number of break and continue statements in this loop to use at most one.(õãÜí8ù›Ø•ë1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±Ò„àşÿÿÿÿ8ú›Ø•ë1
+g
+java:S2184g"ECast one of the operands of this subtraction operation to a "double".(¬Áõáüÿÿÿÿ8û›Ø•ë1
+g
+java:S2184g"ECast one of the operands of this subtraction operation to a "double".(¬Áõáüÿÿÿÿ8û›Ø•ë1
+h
+java:S2184Ê"ECast one of the operands of this subtraction operation to a "double".(—–ñÜşÿÿÿÿ8û›Ø•ë1
+h
+java:S2184Ê"ECast one of the operands of this subtraction operation to a "double".(—–ñÜşÿÿÿÿ8û›Ø•ë1
+c
+java:S2184Ò"ECast one of the operands of this subtraction operation to a "double".(¾ê8û›Ø•ë1
+c
+java:S2184Ò"ECast one of the operands of this subtraction operation to a "double".(¾ê8û›Ø•ë1
+i
+java:S3008%"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç†â8ÁØ•ë1
+i
+java:S3008%"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç†â8ÁØ•ë1
+i
+java:S3008%"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç†â8ÁØ•ë1
+i
+java:S3008%"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç†â8ÁØ•ë1
+i
+java:S3008%"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç†â8ÁØ•ë1
+[
+java:S1659%">Declare "M" and all following declarations on a separate line.(ç†â8ÁØ•ë1
+L	java:S106Z"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ÇØ•ë1
+t
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(²“ú…ûÿÿÿÿ8ÇØ•ë1
+P
+java:S1135¸"2Complete the task associated to this TODO comment.(Ãí×Á8ÉØ•ë1
+p
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ÿ÷­Æ8ÉØ•ë1

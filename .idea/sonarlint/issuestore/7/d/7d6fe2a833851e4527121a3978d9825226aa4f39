@@ -1,0 +1,16 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÇŠÅ—øÿÿÿÿ8Œ¾ä1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒùøÀùÿÿÿÿ8ÙŒ¾ä1
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒùøÀùÿÿÿÿ8ÚŒ¾ä1
+`
+java:S1659">Declare "M" and all following declarations on a separate line.(ŒùøÀùÿÿÿÿ8ÚŒ¾ä1
+[
+java:S1155/">Use isEmpty() to check whether the collection is empty or not.(”İæ8İŒ¾ä1
+L	java:S1060"+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ8ŞŒ¾ä1
+G	java:S1068"+Replace this use of System.out by a logger.(ô¤„å8ŞŒ¾ä1
+t
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(„ÄÄ³üÿÿÿÿ8â‘¾ä1
+^
+java:S1126l"AReplace this if-then-else statement by a single return statement.(é†¤¢8ßŒ¾ä1

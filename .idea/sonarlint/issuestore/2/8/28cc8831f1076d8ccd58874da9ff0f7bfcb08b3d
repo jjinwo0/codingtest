@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8Ü“ó’Ú1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÓüá8Ü“ó’Ú1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†Ü…øÿÿÿÿ8Ü“ó’Ú1
+R
+java:S1854"5Remove this useless assignment to local variable "P".(âÓüá8ñ“ó’Ú1
+C
+java:S1481"&Remove this unused "P" local variable.(âÓüá8ó“ó’Ú1
+`
+java:S11552">Use isEmpty() to check whether the collection is empty or not.(¤Ç’¶ûÿÿÿÿ8ô“ó’Ú1
+L	java:S106<"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8Ì´ÿ’Ú1

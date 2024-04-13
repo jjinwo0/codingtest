@@ -1,0 +1,9 @@
+
+L	java:S106$"+Replace this use of System.out by a logger.(©àûÿÿÿÿ8ë«ûÕß1
+L	java:S1060"+Replace this use of System.out by a logger.(¤Âê€ùÿÿÿÿ8ì«ûÕß1
+A
+java:S16599"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8ì«ûÕß1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8í«ûÕß1
+X
+java:S1128	"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8í«ûÕß1

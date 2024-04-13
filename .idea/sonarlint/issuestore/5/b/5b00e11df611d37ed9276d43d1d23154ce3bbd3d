@@ -1,0 +1,8 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8ÙÇİ©Í1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿µ£‘8ÙÇİ©Í1
+d
+java:S2259"BA "NullPointerException" could be thrown; "task" is nullable here.(øÙ®ıÿÿÿÿ8ËÈİ©Í1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ø£Â 8ÌÈİ©Í1
+G	java:S106%"+Replace this use of System.out by a logger.(ÖÊÊä8µ†â©Í1

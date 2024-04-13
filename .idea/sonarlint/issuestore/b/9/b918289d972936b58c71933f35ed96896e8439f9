@@ -1,0 +1,17 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õÉä ûÿÿÿÿ8ÙÄ”¶ì1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8Å”¶ì1
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8Å”¶ì1
+n
+java:S3008"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8Å”¶ì1
+`
+java:S1659">Declare "M" and all following declarations on a separate line.(Ğ£áœüÿÿÿÿ8‘Å”¶ì1
+B
+java:S1659!"%Declare "liveMap" on a separate line.(™ŠÒ˜8‘Å”¶ì1
+v
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(·ğˆé8‘Å”¶ì1
+L	java:S106S"+Replace this use of System.out by a logger.(Ğ¦ºıÿÿÿÿ8ÕŞ™¶ì1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8•ö¶¶ì1

@@ -1,0 +1,14 @@
+
+z	java:S135N"YReduce the total number of break and continue statements in this loop to use at most one.(ı­Ïüÿÿÿÿ8ì½¯áÒ1
+m	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÃïĞ8º­áÒ1
+m	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÃïĞ8º­áÒ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤‰Î÷ùÿÿÿÿ8º­áÒ1
+<
+java:S1659"Declare "m" on a separate line.(¦Ùï¬8¦®áÒ1
+H
+java:S1659"&Declare "distance" on a separate line.(©¼‡Öûÿÿÿÿ8¦®áÒ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œû¿Ø8¨®áÒ1
+A
+java:S1659"$Declare "startM" on a separate line.(•İ‡ñ8©®áÒ1
+L	java:S106A"+Replace this use of System.out by a logger.(åö¡½úÿÿÿÿ8«®áÒ1

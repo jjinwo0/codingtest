@@ -1,0 +1,15 @@
+
+€
+java:S1488C"^Immediately return this expression instead of assigning it to the temporary variable "result".(Š¤óµÿÿÿÿÿ8„Û€ßÓ1
+€
+java:S1488M"^Immediately return this expression instead of assigning it to the temporary variable "result".(–¸ïƒùÿÿÿÿ8„Û€ßÓ1
+€
+java:S1488V"^Immediately return this expression instead of assigning it to the temporary variable "result".(Š¤óµÿÿÿÿÿ8„Û€ßÓ1
+d
+java:S2184s"BCast one of the operands of this division operation to a "double".(†“Â‹úÿÿÿÿ8…Û€ßÓ1
+
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õîìù8Û€ßÓ1
+H	java:S106–"+Replace this use of System.out by a logger.(£†Àß8šÛ€ßÓ1
+d
+java:S2118¦"AMake the "java.util.List" class "Serializable" or don't write it.(ÓïÅçÿÿÿÿÿ8›Û€ßÓ1
+M	java:S106©"+Replace this use of System.out by a logger.(ÕÊİáşÿÿÿÿ8›Û€ßÓ1

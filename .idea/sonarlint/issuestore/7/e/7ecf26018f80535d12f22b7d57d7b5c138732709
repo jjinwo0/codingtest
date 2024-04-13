@@ -1,0 +1,17 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äİÁôøÿÿÿÿ8Şÿ¡¹Ü1
+L	java:S106N"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8‡‰«¹Ü1
+p
+java:S3776Q"SRefactor this method to reduce its Cognitive Complexity from 174 to the 15 allowed.(ÍáÑ8†¢¹Ü1
+E
+java:S1659S"#Declare "temp2" on a separate line.(š « ıÿÿÿÿ8ˆ¢¹Ü1
+|
+java:S3012†"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¬Ò×õùÿÿÿÿ8ˆ¢¹Ü1
+w
+java:S3012¶"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ëâò†8ˆ¢¹Ü1
+|
+java:S3012ê"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(®àÁ®üÿÿÿÿ8ˆ¢¹Ü1
+|
+java:S3012›"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ß­•õùÿÿÿÿ8‰¢¹Ü1
+ä
+java:S6541Q"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 389 to 64, Complexity from 67 to 14, Nesting Level from 3 to 2, Number of Variables from 55 to 6.(ÍáÑ8Š¢¹Ü1

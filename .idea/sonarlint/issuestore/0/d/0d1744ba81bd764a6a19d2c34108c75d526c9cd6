@@ -1,0 +1,20 @@
+
+z	java:S135R"YReduce the total number of break and continue statements in this loop to use at most one.(ùäÅ’üÿÿÿÿ8ıŸâáÚ1
+u	java:S135_"YReduce the total number of break and continue statements in this loop to use at most one.(ôÓÌÍ8ıŸâáÚ1
+z	java:S135k"YReduce the total number of break and continue statements in this loop to use at most one.(Ğƒ„¥ıÿÿÿÿ8ıŸâáÚ1
+u	java:S135w"YReduce the total number of break and continue statements in this loop to use at most one.(ø‘Ë8ıŸâáÚ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8ıŸâáÚ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ûšïûÿÿÿÿ8şŸâáÚ1
+n
+java:S3008"LRename this field "H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ü¾ıÿÿÿÿ8¨¡âáÚ1
+n
+java:S3008"LRename this field "W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ü¾ıÿÿÿÿ8¨¡âáÚ1
+`
+java:S1659">Declare "W" and all following declarations on a separate line.(¥ü¾ıÿÿÿÿ8©¡âáÚ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8ª¡âáÚ1
+L	java:S106F"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8­¡âáÚ1
+t
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 99 to the 15 allowed.(úœÉúÿÿÿÿ8­¡âáÚ1
+ç
+java:S6541I"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 79 to 64, Complexity from 31 to 14, Nesting Level from 5 to 2, Number of Variables from 8 to 6.(úœÉúÿÿÿÿ8¯¡âáÚ1

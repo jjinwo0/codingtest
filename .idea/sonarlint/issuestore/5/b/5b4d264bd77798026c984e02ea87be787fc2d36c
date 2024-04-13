@@ -1,0 +1,15 @@
+
+z	java:S135\"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Õ ‚ß1
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8¾¹‚ß1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä´Á·8À¹‚ß1
+Z
+java:S25897"8Remove this expression which always evaluates to "false"(±èç©üÿÿÿÿ8Œº‚ß1
+i
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ³ù™8º‚ß1
+`
+java:S1659"CDeclare "answer" and all following declarations on a separate line.(Ñ³ù™8º‚ß1
+L	java:S106@"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8‘º‚ß1
+t
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ñİùÿÿÿÿ8’º‚ß1
+B
+java:S1659Z" Declare "nx" on a separate line.(äõµÿÿÿÿÿ8 Ÿ ‚ß1

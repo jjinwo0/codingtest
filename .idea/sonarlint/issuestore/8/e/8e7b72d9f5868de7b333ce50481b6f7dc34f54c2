@@ -1,0 +1,12 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚Ù¾Úùÿÿÿÿ8ı×ÔĞ1
+i
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËëñŸ8…ØÔĞ1
+[
+java:S1659	">Declare "N" and all following declarations on a separate line.(ËëñŸ8†ØÔĞ1
+‰
+java:S1130
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8‡ØÔĞ1
+G	java:S106"+Replace this use of System.out by a logger.(ô¤„å8‰áÕĞ1
+I
+java:S1125'"'Remove the unnecessary boolean literal.(ÎéâŸüÿÿÿÿ8ŒØÔĞ1

@@ -1,0 +1,24 @@
+
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•ö‰‘øÿÿÿÿ8ÔŒÚ˜ê1
+n
+java:S3008"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«üÿÿÿÿ8İŒÚ˜ê1
+n
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«üÿÿÿÿ8İŒÚ˜ê1
+n
+java:S3008"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«üÿÿÿÿ8İŒÚ˜ê1
+`
+java:S1659">Declare "T" and all following declarations on a separate line.(ˆ«üÿÿÿÿ8İŒÚ˜ê1
+X	java:S125,"<This block of commented-out lines of code should be removed.(·¼Û–8¾–ø¼ê1
+[
+java:S18549"9Remove this useless assignment to local variable "value".(ãÆ£Èıÿÿÿÿ8éŒÚ˜ê1
+S
+java:S1854="6Remove this useless assignment to local variable "nx".(Íá£8Ş¦Ü˜ê1
+S
+java:S1854<"6Remove this useless assignment to local variable "ny".(Û†„‘8Ş¦Ü˜ê1
+L
+java:S14819"*Remove this unused "value" local variable.(ãÆ£Èıÿÿÿÿ8êŒÚ˜ê1
+D
+java:S1481<"'Remove this unused "ny" local variable.(Û†„‘8ß¦Ü˜ê1
+D
+java:S1481="'Remove this unused "nx" local variable.(Íá£8ß¦Ü˜ê1

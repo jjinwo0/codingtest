@@ -1,0 +1,19 @@
+
+h	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ˜Ã	8âþžÒß1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙÝè8ãþžÒß1
+i
+java:S3008!"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð ¬ï8§ÿžÒß1
+i
+java:S3008!"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð ¬ï8§ÿžÒß1
+<
+java:S1659!"Declare "M" on a separate line.(ð ¬ï8¨ÿžÒß1
+a
+java:S16592"?Declare "ry" and all following declarations on a separate line.(Ð§Òþÿÿÿÿ8©ÿžÒß1
+t
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(Ê—˜¢üÿÿÿÿ8«ÿžÒß1
+L	java:S106N"+Replace this use of System.out by a logger.(¡ò†þÿÿÿÿ8«ÿžÒß1
+L	java:S106S"+Replace this use of System.out by a logger.(®ñ†Ùûÿÿÿÿ8«ÿžÒß1
+L	java:S106T"+Replace this use of System.out by a logger.(¾¢Û±ùÿÿÿÿ8“àŸÒß1
+=	java:S131`""Add a default case to this switch.(ìúÇV8¬ÿžÒß1
+M	java:S106¡"+Replace this use of System.out by a logger.(¡ò†þÿÿÿÿ8Þ¤ Òß1

@@ -1,0 +1,38 @@
+
+L
+java:S1066C"/Merge this if statement with the enclosing one.(â¤¦ß8©Şåúİ1
+L
+java:S1066J"/Merge this if statement with the enclosing one.(â¤¦ß8©Şåúİ1
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·ùê¤8ªŞåúİ1
+i
+java:S3008"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£Æî8Ñßåúİ1
+i
+java:S3008"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£Æî8Ñßåúİ1
+<
+java:S1659"Declare "C" on a separate line.(ß£Æî8Ñßåúİ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(œû¿Ø8Óßåúİ1
+9
+java:S3626ƒ"Remove this redundant jump.(ûÁİ…8Ôßåúİ1
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(±Šªÿÿÿÿÿ8Õßåúİ1
+L	java:S106+"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Õßåúİ1
+L	java:S1065"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ößåúİ1
+L	java:S106;"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8×ßåúİ1
+L	java:S106E"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8×ßåúİ1
+L	java:S106L"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8×ßåúİ1
+L	java:S106U"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Øßåúİ1
+L	java:S106["+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Øßåúİ1
+L	java:S106c"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Øßåúİ1
+L	java:S106i"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ùßåúİ1
+L	java:S106o"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ùßåúİ1
+L	java:S106u"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ùßåúİ1
+L	java:S106|"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ÿçúİ1
+M	java:S106‚"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ÿçúİ1
+p
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(¦°ßğ8Úßåúİ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ûßåúİ1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 100 to 64, Complexity from 30 to 14, Nesting Level from 5 to 2, Number of Variables from 11 to 6.(œû¿Ø8Ûßåúİ1

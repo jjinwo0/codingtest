@@ -1,0 +1,7 @@
+
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒèÀ™8™±¦ô½1
+V
+java:S1854"9Remove this useless assignment to local variable "count".(¢çÊÕ8È±¦ô½1
+G
+java:S1481"*Remove this unused "count" local variable.(¢çÊÕ8Ì±¦ô½1
+L	java:S106"+Replace this use of System.out by a logger.(³µ¯øúÿÿÿÿ8Í±¦ô½1

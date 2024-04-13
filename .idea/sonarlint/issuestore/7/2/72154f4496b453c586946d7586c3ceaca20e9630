@@ -1,0 +1,13 @@
+
+L
+java:S3740+"/Provide the parametrized type for this generic.(ð¤Üý8í°´ÖÞ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ØŽÍÔ8ï°´ÖÞ1
+i
+java:S3008"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£Æî8Ï·†×Þ1
+i
+java:S3008"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£Æî8Ï·†×Þ1
+<
+java:S1659"Declare "C" on a separate line.(ß£Æî8Ð·†×Þ1
+G	java:S106W"+Replace this use of System.out by a logger.(â¯˜‚8Ó·†×Þ1
+o
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨¹è´8Ó·†×Þ1

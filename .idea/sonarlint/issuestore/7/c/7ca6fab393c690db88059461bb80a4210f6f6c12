@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(і„И’8ћЃин№1
+i
+java:S3008"LRename this field "L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(њб•Н8кЃин№1
+i
+java:S3008"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(њб•Н8лЃин№1
+<
+java:S1659"Declare "C" on a separate line.(њб•Н8лЃин№1
+L	java:S106,"+Replace this use of System.out by a logger.(Н≠Ћ÷ю€€€€8оЃин№1
+]
+java:S1126L"AReplace this if-then-else statement by a single return statement.(јЉ O8оЃин№1

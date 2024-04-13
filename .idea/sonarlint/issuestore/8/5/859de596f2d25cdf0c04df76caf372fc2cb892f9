@@ -1,0 +1,7 @@
+
+>
+java:S1643"Use a StringBuilder instead.(þöÿíÿÿÿÿÿ8Í›ÓÑÖ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã°Í˜ûÿÿÿÿ8Í›ÓÑÖ1
+G	java:S106	"+Replace this use of System.out by a logger.(ú…‡ì8Ø›ÓÑÖ1
+F
+java:S5413")Verify that "remove()" is used correctly.(ÌÙæŠ8Ù›ÓÑÖ1
