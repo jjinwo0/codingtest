@@ -1,2 +1,15 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8¼Äì¥é1
+A
+java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8…À™ıñ1
+G	java:S106"+Replace this use of System.out by a logger.(­ –8†À™ıñ1
+\
+java:S1161":Add the "@Override" annotation above this method signature(ÃÍªàşÿÿÿÿ8ó‰›ıñ1
+G	java:S106"+Replace this use of System.out by a logger.(µÿœ‚8ô‰›ıñ1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8À·œıñ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8À·œıñ1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8À·œıñ1
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8À·œıñ1

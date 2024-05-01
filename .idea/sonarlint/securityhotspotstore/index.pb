@@ -399,3 +399,7 @@ X
 (src/main/java/hw/day0410/Main_10942.java,3/a/3a186a8a66ef556d0225fc1c57734acf48799766
 X
 (src/main/java/hw/day0410/Main_20040.java,9/7/973b8a8781097066319e5cf1f7152502895ace65
+W
+'src/main/java/hw/day0417/Main_2573.java,6/b/6b85ecff8278a2a06883cce4f99bbcb4ea1ff3cb
+X
+(src/main/java/hw/day0420/Main_17836.java,c/3/c31eb0f1ab30a77459416d4602ac9c7f5d61980f
