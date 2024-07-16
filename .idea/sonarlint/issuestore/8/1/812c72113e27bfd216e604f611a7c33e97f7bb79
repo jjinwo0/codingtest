@@ -1,0 +1,6 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8¾½ åı1J$3f0f5a1f-2b05-4a75-9831-1051793e8d6f
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÓ­Ú8·š åı1J$3e5f2ca8-eed0-4414-98ce-25280ec8d958
+¡
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(±Šªÿÿÿÿÿ8È½ åı1J$803e71f1-8ec5-438b-96e9-d68349201026
+r	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8È½ åı1J$52ee097a-9448-423b-bd19-946f2647ec3f

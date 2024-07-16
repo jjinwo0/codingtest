@@ -1,0 +1,15 @@
+
+v
+java:S1121Q".Extract the assignment out of this expression.(›‘ϊϊÿÿÿÿ8Ò¶£εύ1J$3a2a8286-82dd-47d5-bc32-566fa7186f68
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ρφ’8Σ¶£εύ1J$74ec1c7d-163c-4be0-83a9-3a1778fd67f6
+
+java:S3008"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊ’¨8Χ¶£εύ1J$e3fd3ede-7ae6-4224-9c78-5aced39ec76b
+
+java:S3008"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊ’¨8Χ¶£εύ1J$65c96990-7589-483b-ae1f-04ec88d382c5
+b
+java:S1659"Declare "E" on a separate line.(ϊ’¨8Ψ¶£εύ1J$9fbfe047-4634-4ca2-b07e-ef8438096fa1
+΅
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Θ¶­όÿÿÿÿ8Ω¶£εύ1J$b118d384-eb3d-4c7c-876a-8506b8f9d075
+
+java:S1130%"KRemove the redundant 'java.io.IOException' thrown exception declaration(s).(άΊν>8΅ε£εύ1J$5f41a3ac-e10e-4405-84bb-adebdec1ee47
+r	java:S106;"+Replace this use of System.out by a logger.(­ΛΦώÿÿÿÿ8έ¶£εύ1J$d10defd5-0712-444a-9f26-06b97c380f88

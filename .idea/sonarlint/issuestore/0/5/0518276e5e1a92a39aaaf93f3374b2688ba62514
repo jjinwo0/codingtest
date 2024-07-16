@@ -1,18 +1,18 @@
 
-n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ï ©³ıÿÿÿÿ8»‚¼˜à1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8½‚¼˜à1
-i
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1
-i
-java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1
-i
-java:S3008"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1
-[
-java:S1659">Declare "M" and all following declarations on a separate line.(®Í«8†ƒ¼˜à1
-G	java:S106,"+Replace this use of System.out by a logger.(ô¤„å8ˆƒ¼˜à1
-o
-java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(…‡Ğ8‰ƒ¼˜à1
-]	java:S125S"<This block of commented-out lines of code should be removed.(Ï‘‡‹şÿÿÿÿ8ü«Ò˜à1
-]	java:S125Z"<This block of commented-out lines of code should be removed.(êöŸÑşÿÿÿÿ8ü«Ò˜à1
-]	java:S125i"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8‰ïÒ˜à1
-]	java:S125n"<This block of commented-out lines of code should be removed.(Òíç‚ùÿÿÿÿ8Ÿû÷˜à1
+”	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ï ©³ıÿÿÿÿ8»‚¼˜à1J$a1928c68-052c-478e-b762-c805e851f5b3
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8½‚¼˜à1J$a21f9607-55ad-4193-b454-a35c9f2ddfc5
+
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$32b7a8a3-68e6-43dd-8841-f257401a10fe
+
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$db1be421-33fc-407c-868e-1f64fe51f5ba
+
+java:S3008"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$4b01b067-9607-4201-ad65-3c4030c7eba8
+
+java:S1659">Declare "M" and all following declarations on a separate line.(®Í«8†ƒ¼˜à1J$a420c26f-28cc-4a26-9234-48baf8456cff
+m	java:S106,"+Replace this use of System.out by a logger.(ô¤„å8ˆƒ¼˜à1J$675a9999-dedf-4bd7-a4de-01eb3f290446
+•
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(…‡Ğ8‰ƒ¼˜à1J$9fe9cc06-6f84-49ce-b77c-93d61ed17943
+ƒ	java:S125S"<This block of commented-out lines of code should be removed.(Ï‘‡‹şÿÿÿÿ8ü«Ò˜à1J$6226399c-e320-4a7d-8fba-9e482ee19ae1
+ƒ	java:S125Z"<This block of commented-out lines of code should be removed.(êöŸÑşÿÿÿÿ8ü«Ò˜à1J$9a817239-6b91-4dee-8ce4-42e4fc768364
+ƒ	java:S125i"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8‰ïÒ˜à1J$b622fe76-ec0b-4bd4-a3b9-91ce955f93bb
+ƒ	java:S125n"<This block of commented-out lines of code should be removed.(Òíç‚ùÿÿÿÿ8Ÿû÷˜à1J$e9bcab8c-cba6-40ec-b9b6-76fcbd7227db

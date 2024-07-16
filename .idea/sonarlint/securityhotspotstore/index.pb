@@ -403,3 +403,27 @@ W
 'src/main/java/hw/day0417/Main_2573.java,6/b/6b85ecff8278a2a06883cce4f99bbcb4ea1ff3cb
 X
 (src/main/java/hw/day0420/Main_17836.java,c/3/c31eb0f1ab30a77459416d4602ac9c7f5d61980f
+W
+'src/main/java/hw/day0505/Main_1013.java,0/1/01ed5535d0993ec67389e89cd3e21222391b7eee
+O
+src/main/java/hw/Main_1992.java,8/1/812c72113e27bfd216e604f611a7c33e97f7bb79
+O
+src/main/java/hw/Main_2086.java,2/2/22dbda2ab41696a3b86671486182a740ebaaa1a5
+O
+src/main/java/hw/Main_1197.java,7/7/7768f3bbfc36851b7db2dce150e4d0783417ac4a
+X
+(src/main/java/baekjoon/gold/G4_5427.java,3/c/3cec8e74c1a697630464bdb48f73dc73d7e5bcca
+X
+(src/main/java/baekjoon/gold/G5_2229.java,4/0/40cfb7d29fce91f48b89b1424e276a735ad4eee8
+X
+(src/main/java/baekjoon/gold/G5_2589.java,1/c/1ca851692119f938e45e45a1b652bfe066092567
+X
+(src/main/java/baekjoon/gold/G4_2573.java,a/f/af405a5e6e243832c0691802ed4afcf4521c2f40
+P
+ src/main/java/study/G5_2668.java,5/d/5d842c3a7b934c8e62404f17164e2e487ef4cd13
+P
+ src/main/java/study/G1_2933.java,6/a/6a22c0426fec97146b0cbe1e4dd2727dc65fd2dc
+P
+ src/main/java/study/S1_1986.java,9/3/93e1b467f913fa92b9f1c0b8aa68903f20f96f3e
+Q
+!src/main/java/study/G4_16397.java,0/d/0d11486539c96660be48320df8fba8d7fae499ff

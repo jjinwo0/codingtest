@@ -1,0 +1,14 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8ñÃâÙ‹2J$ef8a942a-65e7-42d1-ad27-24b1a1f767ca
+	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼ğ°”8¶€¾Ù‹2J$8c99863a-8c5f-4878-ac66-bca96c78b2b7
+”
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÄ‘øÿÿÿÿ8¿ÄâÙ‹2J$f8cad495-e0b1-4fb1-871a-6440c34fbce8
+”
+java:S3008"LRename this field "G" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÄ‘øÿÿÿÿ8¿ÄâÙ‹2J$aaf2e8d3-c6ce-4b54-8763-67446b32032a
+†
+java:S1659">Declare "G" and all following declarations on a separate line.(îÄ‘øÿÿÿÿ8ÀÄâÙ‹2J$154a32d9-fa3c-446c-9a79-f91e57b4d77a
+r	java:S106$"+Replace this use of System.out by a logger.(…ƒÁ±ÿÿÿÿÿ8ÄÄâÙ‹2J$52a69296-b295-4b82-ba16-d6ecd9cae627
+m	java:S106&"+Replace this use of System.out by a logger.(ô¤„å8ÄÄâÙ‹2J$82c25b65-4b5c-4920-aaed-dea2da9a06a6
+	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù²áÙ8ÆÄâÙ‹2J$9513dbd6-6e6a-4dfa-b5f3-8f2abacf23d4
+•	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø—¤ƒıÿÿÿÿ8ÆÄâÙ‹2J$ed630842-71b6-4135-bfbf-22d8027607fb

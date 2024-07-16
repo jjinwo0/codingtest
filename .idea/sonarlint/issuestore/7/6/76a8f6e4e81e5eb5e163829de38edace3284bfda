@@ -1,17 +1,17 @@
 
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8äŠõËß1
-i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„»·Í8åŠõËß1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8æŠõËß1
-S
-java:S1854"6Remove this useless assignment to local variable "st".(ëşáÿ8–³÷Ëß1
-S
-java:S1854"6Remove this useless assignment to local variable "ch".(ØŠùÒ8êŠõËß1
-T
-java:S1854"7Remove this useless assignment to local variable "num".(ÑÜâ8ÑËöËß1
-E
-java:S1481"(Remove this unused "num" local variable.(ÑÜâ8ëŠõËß1
-D
-java:S1481"'Remove this unused "ch" local variable.(ØŠùÒ8ÒËöËß1
-D
-java:S1481"'Remove this unused "st" local variable.(ëşáÿ8˜³÷Ëß1
-J	java:S108")Either remove or fill this block of code.(£º¾âüÿÿÿÿ8˜³÷Ëß1
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8äŠõËß1J$73fa209e-b747-41ba-830f-9e3e6d47f323
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„»·Í8åŠõËß1J$d52ce843-d496-4879-9e33-22a78b1c85ef
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8æŠõËß1J$83f1e2e7-d7c0-46ea-9210-02846eb0fb65
+y
+java:S1854"6Remove this useless assignment to local variable "st".(ëşáÿ8–³÷Ëß1J$b1ef778e-e773-451d-a92b-a7a114e0f655
+y
+java:S1854"6Remove this useless assignment to local variable "ch".(ØŠùÒ8êŠõËß1J$12666e6c-3361-44e8-be86-0c6e05104842
+z
+java:S1854"7Remove this useless assignment to local variable "num".(ÑÜâ8ÑËöËß1J$79c9d704-4434-4507-8875-5be6eaa765e3
+k
+java:S1481"(Remove this unused "num" local variable.(ÑÜâ8ëŠõËß1J$d0110662-f17f-465d-a43f-a0af5dd99c12
+j
+java:S1481"'Remove this unused "ch" local variable.(ØŠùÒ8ÒËöËß1J$8f79bc7e-6195-4bf6-9097-66c810d1c2b5
+j
+java:S1481"'Remove this unused "st" local variable.(ëşáÿ8˜³÷Ëß1J$880d6454-9ff3-4e5d-aaef-34a7a5583e65
+p	java:S108")Either remove or fill this block of code.(£º¾âüÿÿÿÿ8˜³÷Ëß1J$d00f87de-157e-4cd7-889f-b97fa63dd5f8

@@ -1,12 +1,12 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À´Û¦8 ·”Ÿà1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8¢·”Ÿà1
-n
-java:S3008$"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¯Ä«üÿÿÿÿ8ï·”Ÿà1
-e
-java:S1659$"CDeclare "sharkY" and all following declarations on a separate line.(“¯Ä«üÿÿÿÿ8ï·”Ÿà1
-{
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ8ğ·”Ÿà1
-L	java:S106="+Replace this use of System.out by a logger.(ûÛÏçùÿÿÿÿ8Øï”Ÿà1
-o
-java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¥Æš¢8×›ûŸà1
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À´Û¦8 ·”Ÿà1J$de1f22ae-d0d9-4117-aa9b-e1deb9b17bfc
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8¢·”Ÿà1J$6cf982a1-668d-4720-858f-5456ca045686
+”
+java:S3008$"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¯Ä«üÿÿÿÿ8ï·”Ÿà1J$13b11d0f-fc56-4934-9caf-192cf4cbffdb
+‹
+java:S1659$"CDeclare "sharkY" and all following declarations on a separate line.(“¯Ä«üÿÿÿÿ8ï·”Ÿà1J$2ef1042e-496c-4772-a01a-c6f15dfc6b59
+¡
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ8ğ·”Ÿà1J$5fc2f40d-42d1-4106-98cf-d07ad4af41be
+r	java:S106="+Replace this use of System.out by a logger.(ûÛÏçùÿÿÿÿ8Øï”Ÿà1J$875274c5-c8ad-4dd7-8631-a1cfd02cea35
+•
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¥Æš¢8×›ûŸà1J$fbf2f952-6135-433a-ab4c-b6a4e132f015

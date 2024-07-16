@@ -1,7 +1,7 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·Ü‚úÿÿÿÿ8ßŸ­÷Ô1
-n
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙùÌƒşÿÿÿÿ8èŸ­÷Ô1
-E
-java:S1659"#Declare "count" on a separate line.(ÙùÌƒşÿÿÿÿ8èŸ­÷Ô1
-L	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8©ô­÷Ô1
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·Ü‚úÿÿÿÿ8ßŸ­÷Ô1J$e7e51f2c-8e04-44d0-bad6-bdd4fec51f00
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙùÌƒşÿÿÿÿ8èŸ­÷Ô1J$daa83f49-8051-4f4c-9f15-dc61041946bd
+k
+java:S1659"#Declare "count" on a separate line.(ÙùÌƒşÿÿÿÿ8èŸ­÷Ô1J$ca3bb0f4-b812-47b5-ad01-528e9b556d12
+r	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8©ô­÷Ô1J$f43cf13c-00cf-4853-8a1a-7e8788d2bf4f

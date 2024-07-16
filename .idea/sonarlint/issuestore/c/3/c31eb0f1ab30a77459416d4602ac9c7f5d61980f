@@ -1,17 +1,17 @@
 
-L
-java:S1066K"/Merge this if statement with the enclosing one.(ƒî³®8âÔËÖï1
-n	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑÒˆ™ÿÿÿÿÿ8ß°ÃÖï1
-i
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÚµÏ8«±ÃÖï1
-i
-java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÚµÏ8«±ÃÖï1
-i
-java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÚµÏ8«±ÃÖï1
-[
-java:S1659">Declare "M" and all following declarations on a separate line.(ŞÚµÏ8¬±ÃÖï1
-L	java:S1069"+Replace this use of System.out by a logger.(â‹ùíıÿÿÿÿ8®ÕËÖï1
-G	java:S106;"+Replace this use of System.out by a logger.(ô¤„å8®ÕËÖï1
-t
-java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(„ÄÄ³üÿÿÿÿ8¯ÕËÖï1
+r
+java:S1066K"/Merge this if statement with the enclosing one.(ƒî³®8âÔËÖï1J$49446c64-2023-469e-8a5d-6a26da726c9e
+”	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑÒˆ™ÿÿÿÿÿ8ß°ÃÖï1J$06c13e5c-6a43-4816-9f02-e4a06a213048
+
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÚµÏ8«±ÃÖï1J$45991c23-5b11-432d-9941-b498c6bb62f8
+
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÚµÏ8«±ÃÖï1J$65c17a85-5941-4a06-b49e-c700debca78c
+
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÚµÏ8«±ÃÖï1J$99629915-8f59-4946-aad2-f7e4333fd5f1
+
+java:S1659">Declare "M" and all following declarations on a separate line.(ŞÚµÏ8¬±ÃÖï1J$528a2a6a-34f0-4da1-bf89-2990bf81f9f1
+r	java:S1069"+Replace this use of System.out by a logger.(â‹ùíıÿÿÿÿ8®ÕËÖï1J$aec418c6-6afe-4fe7-ad7c-f3b019b14f67
+m	java:S106;"+Replace this use of System.out by a logger.(ô¤„å8®ÕËÖï1J$b24b0e8e-2a9d-4952-bcb1-6d67c61a7ef3
+š
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(„ÄÄ³üÿÿÿÿ8¯ÕËÖï1J$bec683a3-9c16-4683-8a69-e50026b6e4bc

@@ -1,0 +1,12 @@
+
+	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êë¶8¾âò¦„2J$377b7769-4f7f-42fb-a588-63091f1032fb
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛêÇ°ıÿÿÿÿ8‹ãò¦„2J$43ac8ca3-78f3-4e92-925b-73c101730292
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛêÇ°ıÿÿÿÿ8‹ãò¦„2J$95be2a7c-72bf-47ff-9ad4-7676ffae0b47
+†
+java:S1659">Declare "M" and all following declarations on a separate line.(ÛêÇ°ıÿÿÿÿ8Œãò¦„2J$da47115d-e8d0-4524-b4b5-ec7f7148aff4
+›
+java:S30120"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•·b8ãò¦„2J$5a77fdf9-2802-4ce3-81f0-cf467c947f99
+r	java:S106>"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8íïó¦„2J$b5345908-2543-41b7-a9e8-0d616ce4f01e

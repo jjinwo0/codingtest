@@ -1,0 +1,15 @@
+
+ 	java:S1353"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ŒÙÏ„2J$936ed22f-caa7-4959-a8ab-f88f53ba7b5d
+w
+java:S1066\"/Merge this if statement with the enclosing one.(ÎİØŞıÿÿÿÿ8ÙÏ„2J$c7ba8efb-334e-4f4b-bd88-41d2b9c5ac4b
+”	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ĞÙÅÑüÿÿÿÿ8ÅÑÁÏ„2J$dd794eef-715d-422a-b39f-aa8be1b730de
+
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8ñÙÏ„2J$5fbc6fda-2e1c-438b-ae38-26fe98fffa9b
+
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8ñÙÏ„2J$eba5986b-e857-4a87-ae24-6424eca503c6
+b
+java:S1659"Declare "M" on a separate line.(ğ ¬ï8ñÙÏ„2J$b234dd59-3025-438e-a92d-d31cd8c6cecb
+r	java:S106A"+Replace this use of System.out by a logger.(ïÖ Ïıÿÿÿÿ8õÙÏ„2J$b8cfbe96-68be-4978-8886-27a3e18f3631
+š
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(„ÄÄ³üÿÿÿÿ8öÙÏ„2J$674bf83c-7529-4c39-8128-1060ada747ee

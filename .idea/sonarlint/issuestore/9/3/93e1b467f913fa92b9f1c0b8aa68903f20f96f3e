@@ -1,0 +1,20 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆŒé¾8šÌ²‹2J$56983e29-abce-4160-9152-f15a648570d5
+b
+java:S1659"Declare "m" on a separate line.(¦Ùï¬8™Ì²‹2J$3641189c-30b2-4805-9952-432196aa507a
+r
+java:S1197
+"*Move the array designators [] to the type.(×íŸæÿÿÿÿÿ8šÌ²‹2J$b43ea167-e505-4d1d-81ff-f8e564c4df11
+r
+java:S1197"*Move the array designators [] to the type.(û“Ã³ùÿÿÿÿ8šÌ²‹2J$11adfd0b-f540-4fa7-9731-cfcd8372f842
+r
+java:S1197"*Move the array designators [] to the type.(šì‡Şûÿÿÿÿ8šÌ²‹2J$597abd00-d780-4fb3-a2e6-8b1c41fe9bdf
+m
+java:S1197"*Move the array designators [] to the type.(ÉÔ‚ş8šÌ²‹2J$12a838ae-adb5-40ce-96d9-3a68111f7195
+o
+java:S1197",Move the array designators [][] to the type.(ÌÇæ8šÌ²‹2J$392f089d-7c71-4413-b831-7e1f1887e465
+t
+java:S1197",Move the array designators [][] to the type.(„åû¾şÿÿÿÿ8šÌ²‹2J$bff5a88e-fd1d-4228-a758-d183ef39df14
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œû¿Ø8›Ì²‹2J$2cbf2b6b-081b-4fc5-829d-c626aad2b9b4
+r	java:S106L"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8 Ì²‹2J$ee558781-4f18-4eaf-9974-8def739e9a05

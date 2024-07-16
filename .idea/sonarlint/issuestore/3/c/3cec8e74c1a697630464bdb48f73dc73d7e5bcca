@@ -1,0 +1,9 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8ê›êÊƒ2J$3e024566-4e1f-4329-82fb-cf40b647075c
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏŒãÃ8ë›êÊƒ2J$05f38614-9cb9-4cba-a77b-b8e041cc8f7b
+
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8î›êÊƒ2J$36eee2f4-b5cf-4d49-8cc4-5e0f0c5441d0
+
+java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8î›êÊƒ2J$8f4d6eca-32c6-4ffd-93ed-c87ec809595a
+b
+java:S1659	"Declare "M" on a separate line.(ğ ¬ï8ï›êÊƒ2J$f016e679-8ed3-400d-8584-94e24e9fe415

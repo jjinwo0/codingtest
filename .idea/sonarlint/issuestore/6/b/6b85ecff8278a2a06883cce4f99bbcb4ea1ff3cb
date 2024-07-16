@@ -1,15 +1,15 @@
 
-n	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΗΕ—ψÿÿÿÿ8ςνξέξ1
-n
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ωψΐωÿÿÿÿ8ίξξέξ1
-n
-java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ωψΐωÿÿÿÿ8ίξξέξ1
-`
-java:S1659">Declare "M" and all following declarations on a separate line.(ωψΐωÿÿÿÿ8αξξέξ1
-t
-java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(„ΔΔ³όÿÿÿÿ8εξξέξ1
-L	java:S106V"+Replace this use of System.out by a logger.(σΥΞÿÿÿÿÿ8Λ½ήξ1
-L	java:S106]"+Replace this use of System.out by a logger.(Έθ ιύÿÿÿÿ8Λ½ήξ1
-c
-java:S1126t"AReplace this if-then-else statement by a single return statement.(θÿν’ÿÿÿÿÿ8κ£ήξ1
+”	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΗΕ—ψÿÿÿÿ8ςνξέξ1J$c87d340b-3479-49e9-84e9-e6d1cc888394
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ωψΐωÿÿÿÿ8ίξξέξ1J$6d59dd7d-dbb0-40a8-bf9b-561cb7597c2e
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ωψΐωÿÿÿÿ8ίξξέξ1J$4c7fa496-2518-456f-a208-9f542fe4ead4
+†
+java:S1659">Declare "M" and all following declarations on a separate line.(ωψΐωÿÿÿÿ8αξξέξ1J$7890cd39-0281-4b67-af74-2234c643f299
+
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(„ΔΔ³όÿÿÿÿ8εξξέξ1J$13a63e5d-2838-42a1-ab33-f5b36ae533d8
+r	java:S106V"+Replace this use of System.out by a logger.(σΥΞÿÿÿÿÿ8Λ½ήξ1J$dc178d5e-72b1-4272-9445-f74392948db9
+r	java:S106]"+Replace this use of System.out by a logger.(Έθ ιύÿÿÿÿ8Λ½ήξ1J$20143f48-e4aa-492c-8d29-c4b7d18a8b65
+‰
+java:S1126t"AReplace this if-then-else statement by a single return statement.(θÿν’ÿÿÿÿÿ8κ£ήξ1J$ccc57f34-e207-4911-86a8-f213ee572cfc

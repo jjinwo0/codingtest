@@ -1,0 +1,6 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8£´‘ğô1J$7491907d-b595-4291-ba1a-f3fd3195af9c
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•İë”øÿÿÿÿ8¥´‘ğô1J$41c868b6-9ac5-4985-9ee2-ca401665457f
+
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(û¹™¢8³´‘ğô1J$b0228a31-fdbf-44d9-8b9b-0c4966a0251b
+r	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8·´‘ğô1J$d43aab46-5ca7-4a83-bc17-276acefad329

@@ -1,15 +1,15 @@
 
-A
-java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8…À™ıñ1
-G	java:S106"+Replace this use of System.out by a logger.(­ –8†À™ıñ1
-\
-java:S1161":Add the "@Override" annotation above this method signature(ÃÍªàşÿÿÿÿ8ó‰›ıñ1
-G	java:S106"+Replace this use of System.out by a logger.(µÿœ‚8ô‰›ıñ1
-P
-java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8À·œıñ1
-R
-java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8À·œıñ1
-S
-java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8À·œıñ1
-C
-java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8À·œıñ1
+g
+java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8…À™ıñ1J$d14209f6-6c13-47a8-a2a0-d79eedf6c9bf
+m	java:S106"+Replace this use of System.out by a logger.(­ –8†À™ıñ1J$7fa59a36-7c8b-433c-a785-b52f45e2ffa3
+‚
+java:S1161":Add the "@Override" annotation above this method signature(ÃÍªàşÿÿÿÿ8ó‰›ıñ1J$7c5cc282-3f24-4e66-a8fe-5cf5a88e3b66
+m	java:S106"+Replace this use of System.out by a logger.(µÿœ‚8ô‰›ıñ1J$23eb3d55-8001-4a0a-8780-acd536a58ee1
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8À·œıñ1J$2983c8ab-2cd1-481a-ae88-755aa8950288
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8À·œıñ1J$44c13212-d359-490b-ba2d-cd4e1441d470
+y
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8À·œıñ1J$26957eea-fc64-413b-9379-633e81b44f02
+i
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8À·œıñ1J$10d6d304-0ac2-45a3-885d-f64392d5646c

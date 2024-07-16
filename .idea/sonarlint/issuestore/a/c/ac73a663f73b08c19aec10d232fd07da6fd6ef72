@@ -1,9 +1,9 @@
 
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯•Œşÿÿÿÿ8´ÎÙÊ×1
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8¶ÎÙÊ×1
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û•†’ùÿÿÿÿ8·ÎÙÊ×1
-o
-java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8â´èÊ×1
-G	java:S106&"+Replace this use of System.out by a logger.(ØíÏÈ8¶ÆáÊ×1
-L	java:S106("+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ä´èÊ×1
-L	java:S106+"+Replace this use of System.out by a logger.(º×ıóùÿÿÿÿ8ä´èÊ×1
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯•Œşÿÿÿÿ8´ÎÙÊ×1J$00974aef-abd1-4467-a92d-196367b0ae82
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8¶ÎÙÊ×1J$f9896a98-907e-4946-875d-f9a1387169bf
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û•†’ùÿÿÿÿ8·ÎÙÊ×1J$dcb38b4c-41e4-4fc9-aa7e-c2611f3801f1
+•
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8â´èÊ×1J$ca122bed-16e0-48ef-a220-ee1723dc5970
+m	java:S106&"+Replace this use of System.out by a logger.(ØíÏÈ8¶ÆáÊ×1J$84fb16a4-119e-4204-8e16-66551d5af9d3
+r	java:S106("+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ä´èÊ×1J$1d72035a-bfb0-4031-8f8c-a677cadc5b65
+r	java:S106+"+Replace this use of System.out by a logger.(º×ıóùÿÿÿÿ8ä´èÊ×1J$02bc088c-6a92-446f-9e61-211491ca3164
