@@ -1,0 +1,15 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷íèÌ8³®¥Ó2J$66fe1cb6-8d09-4827-8d84-2ae37a7b1c33
+”
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$482b626e-4c99-4910-9696-ade4ed896873
+”
+java:S3008
+"LRename this field "I" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$02a80288-e5d6-4c21-9f9b-81fa42cebfc9
+”
+java:S3008
+"LRename this field "J" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$cdb5edb8-ac9c-47f0-a568-be19199aec53
+†
+java:S1659
+">Declare "I" and all following declarations on a separate line.(‰æ…şÿÿÿÿ8¿®¥Ó2J$57c21cb1-bc93-465a-b1c2-df30689b76f9
+L	java:S106."+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Â§¦Ó2

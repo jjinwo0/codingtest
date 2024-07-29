@@ -1,0 +1,19 @@
+
+î	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚Å—»ˇˇˇˇˇ8íê≠¨ç2J$77f7b689-4ddb-4d36-9c14-dad6993b9291
+è
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$fdc44fa5-2d09-495b-bb08-907c82a9b54f
+è
+java:S3008
+"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$2ae0f9ee-f812-4c6c-9c1f-546cd29cf827
+è
+java:S3008
+"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$c360ceb9-a3b1-41e8-8dc7-4badb90cc241
+è
+java:S3008"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†üôà8Øê≠¨ç2J$0c61c46f-7758-442a-a965-ff36aeab0fb2
+Å
+java:S1659
+">Declare "S" and all following declarations on a separate line.(ÂñëØ8Øê≠¨ç2J$5e16fb31-e13b-4fa6-ab9c-e0d029aeb94c
+ï
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú˚øÿ8±ê≠¨ç2J$096ab698-5f69-4d42-be94-b12d7c9aff67
+m	java:S106;"+Replace this use of System.out by a logger.(Ù§ÑÂ8∑í±¨ç2J$8ee88dc1-ec6a-4b12-a068-9d746259c57e
