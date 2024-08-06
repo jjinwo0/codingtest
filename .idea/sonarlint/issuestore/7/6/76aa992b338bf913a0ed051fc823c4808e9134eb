@@ -1,21 +1,21 @@
 
-n	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÁÓİÚùÿÿÿÿ8¤Àºƒ2
-i
-java:S3008""LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¸–°8ÃÀºƒ2
-i
-java:S3008""LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¸–°8ÃÀºƒ2
-i
-java:S3008""LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¸–°8ÃÀºƒ2
-[
-java:S1659"">Declare "C" and all following declarations on a separate line.(ğ¸–°8ÄÀºƒ2
-]	java:S125"<This block of commented-out lines of code should be removed.(ßÌœ±ûÿÿÿÿ8ÅÀºƒ2
-]	java:S125$"<This block of commented-out lines of code should be removed.(ˆ…Ç¬ÿÿÿÿÿ8ÆÀºƒ2
-X	java:S1254"<This block of commented-out lines of code should be removed.(¹Ò«8ÈÀºƒ2
-G	java:S106A"+Replace this use of System.out by a logger.(ô¤„å8ÈÀºƒ2
-X	java:S125?"<This block of commented-out lines of code should be removed.(åéÈ8ÈÀºƒ2
-X	java:S125j"<This block of commented-out lines of code should be removed.(Ë‹Âá8ÊÀºƒ2
-M
-java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18ÊÀºƒ2
-I
-java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8ÊÀºƒ2
+”	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÁÓİÚùÿÿÿÿ8¤Àºƒ2J$8804073a-1532-4d9a-bd38-619f0d477bce
+
+java:S3008""LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¸–°8ÃÀºƒ2J$b6b53a77-38c0-44bf-945c-1bb9731978db
+
+java:S3008""LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¸–°8ÃÀºƒ2J$838f2fc5-6578-4f60-83c5-34b200e98399
+
+java:S3008""LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¸–°8ÃÀºƒ2J$ea392394-16d9-470b-8e57-a0f9cbefca7f
+
+java:S1659"">Declare "C" and all following declarations on a separate line.(ğ¸–°8ÄÀºƒ2J$1a2daf27-aeee-4d93-8356-e7d30426988f
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ßÌœ±ûÿÿÿÿ8ÅÀºƒ2J$47ff5767-6694-4421-9c19-65a0358ad75c
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(ˆ…Ç¬ÿÿÿÿÿ8ÆÀºƒ2J$85b2d644-d6d2-402e-b891-4dc00b58c1a5
+~	java:S1254"<This block of commented-out lines of code should be removed.(¹Ò«8ÈÀºƒ2J$3a571200-ccc0-4e4e-b061-1cdf428e1496
+m	java:S106A"+Replace this use of System.out by a logger.(ô¤„å8ÈÀºƒ2J$17dbf222-5162-4695-b0e9-ff04d24c982c
+~	java:S125?"<This block of commented-out lines of code should be removed.(åéÈ8ÈÀºƒ2J$52ea7878-4605-4539-a626-955f8c3c430a
+~	java:S125j"<This block of commented-out lines of code should be removed.(Ë‹Âá8ÊÀºƒ2J$9b86e72e-df26-42fa-b0a1-70d44cdc8bf2
+s
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18ÊÀºƒ2J$143423f6-6358-4fb6-bcf2-ae84acec41a6
+o
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8ÊÀºƒ2J$c61bf397-94c2-4045-8392-34c6b6378a4c

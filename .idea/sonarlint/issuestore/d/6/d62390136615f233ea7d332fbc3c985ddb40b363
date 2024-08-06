@@ -1,19 +1,19 @@
 
-î	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚Å—»ˇˇˇˇˇ8íê≠¨ç2J$77f7b689-4ddb-4d36-9c14-dad6993b9291
+î	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚Å—»ˇˇˇˇˇ8íê≠¨ç2J$1f4c7db5-538d-4f68-b824-7a2af68ed31b
 è
 java:S3008
-"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$fdc44fa5-2d09-495b-bb08-907c82a9b54f
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$2342f764-fde8-4e9f-b0ca-263df94e9c11
 è
 java:S3008
-"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$2ae0f9ee-f812-4c6c-9c1f-546cd29cf827
+"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$dfb4eaa7-241e-4c1b-a972-24019cb48825
 è
 java:S3008
-"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$c360ceb9-a3b1-41e8-8dc7-4badb90cc241
+"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂñëØ8Øê≠¨ç2J$54c65ca4-585c-4cf2-966a-608a61380c66
 è
-java:S3008"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†üôà8Øê≠¨ç2J$0c61c46f-7758-442a-a965-ff36aeab0fb2
+java:S3008"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†üôà8Øê≠¨ç2J$e6414357-5ec3-4692-ba33-f3feee53e4ca
 Å
 java:S1659
-">Declare "S" and all following declarations on a separate line.(ÂñëØ8Øê≠¨ç2J$5e16fb31-e13b-4fa6-ab9c-e0d029aeb94c
+">Declare "S" and all following declarations on a separate line.(ÂñëØ8Øê≠¨ç2J$4c75a529-458b-46e9-ac05-59b7e66babfb
 ï
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú˚øÿ8±ê≠¨ç2J$096ab698-5f69-4d42-be94-b12d7c9aff67
-m	java:S106;"+Replace this use of System.out by a logger.(Ù§ÑÂ8∑í±¨ç2J$8ee88dc1-ec6a-4b12-a068-9d746259c57e
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú˚øÿ8±ê≠¨ç2J$e4225063-cdd5-41bf-9054-728881a0527e
+m	java:S106;"+Replace this use of System.out by a logger.(Ù§ÑÂ8∑í±¨ç2J$0d63d6a9-b91e-42cb-a1e3-c68c51522114

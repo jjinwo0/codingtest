@@ -1,15 +1,15 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷íèÌ8³®¥Ó2J$66fe1cb6-8d09-4827-8d84-2ae37a7b1c33
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷íèÌ8³®¥Ó2J$98ec0c71-dc63-49ba-8fc6-3cb4c144ed2c
 ”
 java:S3008
-"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$482b626e-4c99-4910-9696-ade4ed896873
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$8b9cc40a-d81d-44b3-82bd-aa89dbc62a17
 ”
 java:S3008
-"LRename this field "I" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$02a80288-e5d6-4c21-9f9b-81fa42cebfc9
+"LRename this field "I" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$8e36fdde-d4e3-495f-8c2a-2b30c3007db8
 ”
 java:S3008
-"LRename this field "J" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$cdb5edb8-ac9c-47f0-a568-be19199aec53
+"LRename this field "J" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ…şÿÿÿÿ8¾®¥Ó2J$eec8e8b6-6ed6-4204-91a1-0abe8b535de3
 †
 java:S1659
-">Declare "I" and all following declarations on a separate line.(‰æ…şÿÿÿÿ8¿®¥Ó2J$57c21cb1-bc93-465a-b1c2-df30689b76f9
-L	java:S106."+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Â§¦Ó2
+">Declare "I" and all following declarations on a separate line.(‰æ…şÿÿÿÿ8¿®¥Ó2J$21cfd70d-a34d-4c19-8355-719ad64f6d9a
+r	java:S106."+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Â§¦Ó2J$dc763de6-a591-420b-ac85-94f9c9a7cc3c

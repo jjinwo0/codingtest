@@ -1,9 +1,9 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯•Œşÿÿÿÿ8´ÎÙÊ×1J$00974aef-abd1-4467-a92d-196367b0ae82
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8¶ÎÙÊ×1J$f9896a98-907e-4946-875d-f9a1387169bf
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û•†’ùÿÿÿÿ8·ÎÙÊ×1J$dcb38b4c-41e4-4fc9-aa7e-c2611f3801f1
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯•Œşÿÿÿÿ8´ÎÙÊ×1J$92963574-a165-42d0-bfb8-3f346a4018ce
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8¶ÎÙÊ×1J$6b6d2901-a782-4c2d-90be-5801c2eced38
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û•†’ùÿÿÿÿ8·ÎÙÊ×1J$5a30c83d-84e8-4fc8-a85c-3c21303a8f0a
 •
-java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8â´èÊ×1J$ca122bed-16e0-48ef-a220-ee1723dc5970
-m	java:S106&"+Replace this use of System.out by a logger.(ØíÏÈ8¶ÆáÊ×1J$84fb16a4-119e-4204-8e16-66551d5af9d3
-r	java:S106("+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ä´èÊ×1J$1d72035a-bfb0-4031-8f8c-a677cadc5b65
-r	java:S106+"+Replace this use of System.out by a logger.(º×ıóùÿÿÿÿ8ä´èÊ×1J$02bc088c-6a92-446f-9e61-211491ca3164
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8â´èÊ×1J$560da2d7-20dd-419c-bf04-a0dd0d2e82fd
+m	java:S106&"+Replace this use of System.out by a logger.(ØíÏÈ8¶ÆáÊ×1J$ab19089d-de06-458d-a383-4aa0582a3802
+r	java:S106("+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ä´èÊ×1J$e5fcf369-28c6-4743-9c66-a5c8238cb7be
+r	java:S106+"+Replace this use of System.out by a logger.(º×ıóùÿÿÿÿ8ä´èÊ×1J$638e70e1-ecfd-41e6-b03f-54075671c167

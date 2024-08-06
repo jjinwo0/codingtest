@@ -1,0 +1,11 @@
+
+z	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ø—˜›‘2
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚéÚÅøÿÿÿÿ8¹ï™‘2J$696d5450-a543-4276-9085-a97a1e60f9a9
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(áìúÆ8¹ï™‘2J$da8762ad-14b3-4fba-b845-c0b8630a8c48
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œû¿Ø8¼°ï™‘2J$ba476c76-b953-4a95-a791-90ff1210dc1a
+L	java:S1067"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8Å˜˜›‘2
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Å˜˜›‘2
+I
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8Å˜˜›‘2

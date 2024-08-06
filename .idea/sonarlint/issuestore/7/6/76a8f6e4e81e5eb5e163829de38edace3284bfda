@@ -1,17 +1,17 @@
 
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8äŠõËß1J$a814f36a-5573-4cd0-9f53-d09887845d84
-	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„»·Í8åŠõËß1J$dc7d7b05-fe73-46b5-a85b-c5c54ffab3d8
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8æŠõËß1J$d9a20465-b86d-4e35-80a2-ab8765d09ce7
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8äŠõËß1J$a84b24ad-271d-46b4-b06e-549bb9fdb72e
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„»·Í8åŠõËß1J$ba1d7788-a6dc-4435-b279-b4993a4f35ef
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8æŠõËß1J$5e0c31e2-315c-4aef-99c2-ed374d338508
 y
-java:S1854"6Remove this useless assignment to local variable "st".(ëşáÿ8–³÷Ëß1J$43bfe494-dc33-4d93-9461-d4d25ebb2b81
+java:S1854"6Remove this useless assignment to local variable "st".(ëşáÿ8–³÷Ëß1J$8a36fecf-3e6c-422a-9848-3ce4ecac2e07
 y
-java:S1854"6Remove this useless assignment to local variable "ch".(ØŠùÒ8êŠõËß1J$f0cca129-47f3-45f2-8896-8afc7010213a
+java:S1854"6Remove this useless assignment to local variable "ch".(ØŠùÒ8êŠõËß1J$ef87ce6c-1d17-4e90-a54f-57a97ab6ede2
 z
-java:S1854"7Remove this useless assignment to local variable "num".(ÑÜâ8ÑËöËß1J$15ca6c97-e513-4a25-b722-76e91e83c743
+java:S1854"7Remove this useless assignment to local variable "num".(ÑÜâ8ÑËöËß1J$d13fa42a-ee0d-4a7e-be33-94ff73e9d353
 k
-java:S1481"(Remove this unused "num" local variable.(ÑÜâ8ëŠõËß1J$e6b1971e-6f2b-4d3a-8c2e-00cc82dcfee1
+java:S1481"(Remove this unused "num" local variable.(ÑÜâ8ëŠõËß1J$178f3ff4-84b7-4b91-acac-e255afa0b2eb
 j
-java:S1481"'Remove this unused "ch" local variable.(ØŠùÒ8ÒËöËß1J$9d2f540b-d096-43b7-b429-40136a3fcea5
+java:S1481"'Remove this unused "ch" local variable.(ØŠùÒ8ÒËöËß1J$227b0a51-e456-4cc6-84bd-a271b8cf066e
 j
-java:S1481"'Remove this unused "st" local variable.(ëşáÿ8˜³÷Ëß1J$7071c2c4-2b32-467b-b9f5-918ecc823fef
-p	java:S108")Either remove or fill this block of code.(£º¾âüÿÿÿÿ8˜³÷Ëß1J$53c06a4f-8c54-4367-80ee-597b0c49f076
+java:S1481"'Remove this unused "st" local variable.(ëşáÿ8˜³÷Ëß1J$22846de3-6842-4ce3-babb-7366cd6878ab
+p	java:S108")Either remove or fill this block of code.(£º¾âüÿÿÿÿ8˜³÷Ëß1J$c02251ab-68e9-4504-aaa9-9a12cb6136da

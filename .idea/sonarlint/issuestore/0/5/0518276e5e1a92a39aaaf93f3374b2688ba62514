@@ -1,18 +1,18 @@
 
-”	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ï ©³ıÿÿÿÿ8»‚¼˜à1J$a1928c68-052c-478e-b762-c805e851f5b3
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8½‚¼˜à1J$a21f9607-55ad-4193-b454-a35c9f2ddfc5
+”	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ï ©³ıÿÿÿÿ8»‚¼˜à1J$e1eb8a2a-9780-4cb4-b5d6-a62035578333
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙİè8½‚¼˜à1J$859dc381-be33-434e-bfb9-1990bb2df10f
 
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$32b7a8a3-68e6-43dd-8841-f257401a10fe
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$85e0a5c4-3941-4bf8-8c3a-cf2487abf7fe
 
-java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$db1be421-33fc-407c-868e-1f64fe51f5ba
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$c9e91d42-d250-4205-b72a-a0d4a3562543
 
-java:S3008"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$4b01b067-9607-4201-ad65-3c4030c7eba8
+java:S3008"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Í«8†ƒ¼˜à1J$eaf781f8-22ff-4687-ab43-9cb67ba7e2cd
 
-java:S1659">Declare "M" and all following declarations on a separate line.(®Í«8†ƒ¼˜à1J$a420c26f-28cc-4a26-9234-48baf8456cff
-m	java:S106,"+Replace this use of System.out by a logger.(ô¤„å8ˆƒ¼˜à1J$675a9999-dedf-4bd7-a4de-01eb3f290446
+java:S1659">Declare "M" and all following declarations on a separate line.(®Í«8†ƒ¼˜à1J$c25aa030-f5cd-4220-8d12-11a40f8278d3
+m	java:S106,"+Replace this use of System.out by a logger.(ô¤„å8ˆƒ¼˜à1J$bc9dcd54-c3f0-4fa9-bb7e-bd42a5766593
 •
-java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(…‡Ğ8‰ƒ¼˜à1J$9fe9cc06-6f84-49ce-b77c-93d61ed17943
-ƒ	java:S125S"<This block of commented-out lines of code should be removed.(Ï‘‡‹şÿÿÿÿ8ü«Ò˜à1J$6226399c-e320-4a7d-8fba-9e482ee19ae1
-ƒ	java:S125Z"<This block of commented-out lines of code should be removed.(êöŸÑşÿÿÿÿ8ü«Ò˜à1J$9a817239-6b91-4dee-8ce4-42e4fc768364
-ƒ	java:S125i"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8‰ïÒ˜à1J$b622fe76-ec0b-4bd4-a3b9-91ce955f93bb
-ƒ	java:S125n"<This block of commented-out lines of code should be removed.(Òíç‚ùÿÿÿÿ8Ÿû÷˜à1J$e9bcab8c-cba6-40ec-b9b6-76fcbd7227db
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(…‡Ğ8‰ƒ¼˜à1J$6852fb59-aeb4-468d-a82b-8148886569f4
+ƒ	java:S125S"<This block of commented-out lines of code should be removed.(Ï‘‡‹şÿÿÿÿ8ü«Ò˜à1J$480a82e3-fce1-48ff-952c-0f8989da3354
+ƒ	java:S125Z"<This block of commented-out lines of code should be removed.(êöŸÑşÿÿÿÿ8ü«Ò˜à1J$f7f9a895-0699-4623-8957-ab43f4a12b9e
+ƒ	java:S125i"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8‰ïÒ˜à1J$65408137-befc-40b7-83ca-5191cee28ad5
+ƒ	java:S125n"<This block of commented-out lines of code should be removed.(Òíç‚ùÿÿÿÿ8Ÿû÷˜à1J$933e53ae-9527-4468-813e-ec245bf67f5a
