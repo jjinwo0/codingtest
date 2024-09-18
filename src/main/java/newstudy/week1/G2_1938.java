@@ -1,4 +1,4 @@
-package newstudy;
+package newstudy.week1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
